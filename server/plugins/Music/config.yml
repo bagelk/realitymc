@@ -1,0 +1,7 @@
+debug: false
+stations: 250
+auto-update: true
+initSetupComplete: true
+enableResourcepackAdvertisements: true
+initSetupCompleteV2:
+  '0': true

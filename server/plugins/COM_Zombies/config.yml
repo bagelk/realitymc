@@ -1,0 +1,29 @@
+config:
+  settings:
+    nagPlayers: true
+    nagMessage: This server runs COMZ! COMZ will be run on a Flex Gaming server!
+    useNoSlashForCommand: false
+  firstTimeUse: false
+  Perks:
+    PercentDropchance: 3
+    MaxAmmo: true
+    InstaKill: true
+    Carpenter: true
+    Nuke: true
+    DoublePoints: true
+    maxPerks: 4
+  gameSettings:
+    doublePointsTimer: 30
+    instaKillTimer: 30
+    perkLife: 15
+    reloadTime: 3
+    defaultPointsOnHit: 10
+    defaultPointsOnKill: 60
+    maxZombies: 150
+    waveSpawnInterval: 7
+    zombieSpawnDelay: 15
+    arenaStartTime: 60
+  ReviveSettings:
+    ReviveTimer: 4
+    MaxDownTime: 60
+vID: 1.0

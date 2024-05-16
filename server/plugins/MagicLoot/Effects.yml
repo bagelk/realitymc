@@ -1,0 +1,46 @@
+Speed:
+  max-level: 10
+Slow:
+  max-level: 10
+Fast Digging:
+  max-level: 10
+Slow Digging:
+  max-level: 10
+Increase Damage:
+  max-level: 10
+Heal:
+  max-level: 10
+Harm:
+  max-level: 10
+Jump:
+  max-level: 10
+Confusion:
+  max-level: 10
+Regeneration:
+  max-level: 10
+Damage Resistance:
+  max-level: 10
+Fire Resistance:
+  max-level: 10
+Water Breathing:
+  max-level: 10
+Invisibility:
+  max-level: 10
+Blindness:
+  max-level: 10
+Night Vision:
+  max-level: 10
+Hunger:
+  max-level: 10
+Weakness:
+  max-level: 10
+Poison:
+  max-level: 10
+Wither:
+  max-level: 10
+Health Boost:
+  max-level: 10
+Absorption:
+  max-level: 10
+Saturation:
+  max-level: 10

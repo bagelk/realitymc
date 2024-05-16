@@ -1,0 +1,50 @@
+PROTECTION_ENVIRONMENTAL:
+  max-level: 10
+PROTECTION_FIRE:
+  max-level: 10
+PROTECTION_FALL:
+  max-level: 10
+PROTECTION_EXPLOSIONS:
+  max-level: 10
+PROTECTION_PROJECTILE:
+  max-level: 10
+OXYGEN:
+  max-level: 10
+WATER_WORKER:
+  max-level: 10
+THORNS:
+  max-level: 10
+DEPTH_STRIDER:
+  max-level: 10
+DAMAGE_ALL:
+  max-level: 10
+DAMAGE_UNDEAD:
+  max-level: 10
+DAMAGE_ARTHROPODS:
+  max-level: 10
+KNOCKBACK:
+  max-level: 10
+FIRE_ASPECT:
+  max-level: 10
+LOOT_BONUS_MOBS:
+  max-level: 10
+DIG_SPEED:
+  max-level: 10
+SILK_TOUCH:
+  max-level: 10
+DURABILITY:
+  max-level: 10
+LOOT_BONUS_BLOCKS:
+  max-level: 10
+ARROW_DAMAGE:
+  max-level: 10
+ARROW_KNOCKBACK:
+  max-level: 10
+ARROW_FIRE:
+  max-level: 10
+ARROW_INFINITE:
+  max-level: 10
+LUCK:
+  max-level: 10
+LURE:
+  max-level: 10

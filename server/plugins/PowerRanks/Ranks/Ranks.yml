@@ -1,0 +1,47 @@
+Groups:
+  Member:
+    worlds:
+      world: true
+      world_nether: false
+      world_the_end: false
+    permissions: '[]'
+    interance: '[]'
+    prefix: '[Member]'
+    chatColor: RESET
+  Vip:
+    worlds:
+      world: true
+      world_nether: false
+      world_the_end: false
+    permissions: '[]'
+    interance: '[]'
+    prefix: '[Vip]'
+    chatColor: RESET
+  Moderator:
+    worlds:
+      world: true
+      world_nether: false
+      world_the_end: false
+    permissions: '[]'
+    interance: '[]'
+    prefix: '[Moderator]'
+    chatColor: RESET
+  Admin:
+    worlds:
+      world: true
+      world_nether: false
+      world_the_end: false
+    permissions: '[]'
+    interance: '[]'
+    prefix: '[Admin]'
+    chatColor: RESET
+  Owner:
+    worlds:
+      world: true
+      world_nether: false
+      world_the_end: false
+    permissions: '[]'
+    interance: '[]'
+    prefix: '[Owner]'
+    chatColor: RESET
+Default: Member

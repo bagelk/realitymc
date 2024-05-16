@@ -1,0 +1,137 @@
+# If you wish to disable a rune, remove the # before its name.
+# This is the name printed when the rune is activated.
+# List the name of a player to ban them from using magic (except existing teleporters).
+# 
+# Here are some extra options you can add to the list:
+# Enable Black Magic, allows True Name skulls to be worn as helms allowing players to cast magic as if they were the true name owners
+# Consume Dragon Eggs # by default dragon eggs are not consumed when runes use them
+# Enable Travel Ink force teleporters and waypoints to be made of a specific material
+# ink X # dermine the block type (X) to use for travel ink-- you must add this if you add the above
+# disable multiworld travel Disables teleportation between worlds.
+# Signature assignmentsm, this enables reserving Waypoints/Freight signature.
+# You can have a block id followed by : and a metadata if you wish to specify that:
+# You can also have a wildcard(*) to represent any block:
+# Here is an example.:
+# Signature Assignments
+#     player name, north, east, south, west (This line must start with 1 or more spaces)
+#     Amuxix, 35:5, 57, *, * 
+# This would reserve all signature with green wool north, diamond block east and any block on south and west
+# These all stack, allowing multiple signature groups per person.
+# 
+# Enable World Groups # Enables the restriction of TPs/FTPs/Zeerix Chest to only travel inside that group.
+# Define the group like this, based on world folder name.
+# WorldGroup world, world_nether, world_the_end
+# WorldGroup creative, creative_2 
+# With this enabled, worlds ungrouped will be freely accessible by other ungrouped worlds. 
+# 
+# use MultiGroupInk # To define teleport/FTP/etc inks that can escape world groups 
+# MultiGroupInk 57 (would allow diamond runes to travel freely) 
+# MultiGroupInk 7 (would allow bedrock runes to travel freely) 
+# use MultiGroupRune to define teleport/FTP/etc runes can escape world groups 
+# MultiGroupRune recall (would allow recall rune to travel freely between grouped worlds) 
+# 
+# --Below comes an auto generated list of all rune names. Simply remove the # to disable that rune.
+salvation # Saves a faith island to a file in the main world folder.
+redemption # loads a faith island from a file in the main world folder.
+magmagel # Disabled by default because it allows players to create copious lava.
+
+# waypoint
+# teleporter
+# mineshaft
+# faithtransferportal
+# freezer
+# solarflare
+# chronotrigger
+# compass
+# diviner
+# tempest
+# rubrik
+# aetherchest
+# zeerixchest
+# levitationobelisk
+# warp
+# recall
+# truename
+# identifier
+# smelter
+# shield
+# inheritance
+# leafblower
+# farmer'scharm
+# doubt
+# topsyturvy
+# mound
+# dispel
+# powertool
+# coldfeet
+# diver'shelmet
+# transmutationdisc
+# containment
+# depthnote
+# torchbearer
+# surfacetension
+# accelerator
+# initiation
+# adminpick
+# spring
+# transmutationrod
+# masterteleporter
+# forcefield
+# altarofjudgement
+# endurance
+# lockblock
+# redstonesensor
+# automationdesignator
+# pressuresensor
+# damagesensorcreator
+# blocksensor
+# magiclasso
+# flotilla
+# bowoflight
+# multishot
+# bowofredlight
+# spleefblock
+# engraver
+# bottomlesscauldron
+# powerdrill
+# siegebow
+# ovicaptor
+# bowoftranslocation
+# immersion
+# faithpoint
+# permanence
+# magmagel
+# prometheus
+# magiccake
+# lighttool
+# pegasus
+# touchhex
+# damagehex
+# portalhex
+# personalteleport
+# whispercurse
+# faithwrencher
+# redemption
+# salvation
+# faith
+# aetherward
+# voidward
+# toolward
+# tpward
+# dangerward
+# toggleblocks
+# namingrune
+# truenameward
+# stickyredstonesensor
+# runicradio
+# realityboundingblock
+# superfaith
+# realityanchor
+# realitymaster
+# freightteleporter
+# freightpoint
+# levitationward
+# hellmaw
+# truenamealtar
+# genesis
+# seedrune
